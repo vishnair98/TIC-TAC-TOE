@@ -1,0 +1,126 @@
+.b
+{	
+	background:white;
+	border-radius:10px;
+	padding: 25px 30px;
+	text-align:center;
+	border:none;
+	outline:none;
+	color:black;
+}
+.button1
+{
+	position:fixed;
+	top:170px;
+	left:540px;
+}
+.button2
+{
+	position:absolute;
+	top:170px;
+	left:642px;
+}
+.button3
+{
+	position:fixed;
+	top:170px;
+	left:743px;
+}
+.button4
+{
+	position:fixed;
+	top:260px;
+	left:540px;
+}
+.button5
+{
+	position:fixed;
+	top:260px;
+	left:642px;
+}
+.button6
+{
+	position:fixed;
+	top:260px;
+	left:743px;
+}
+.button7
+{
+	position:fixed;
+	top:345px;
+	left:540px;
+}
+.button8
+{
+	position:fixed;
+	top:345px;
+	left:642px;
+}
+.button9
+{
+	position:fixed;
+	top:345px;
+	left:743px;
+}
+.button10
+{
+	position:fixed;
+	top:490px;
+	left:550px;
+	background:linear-gradient(orange,yellow);
+	color:black;
+	font-size:14px;
+	text-align:center;
+	padding:30px 90px;
+	border-radius:10px;
+	border-color:black;
+	border-width:5px;
+}
+.button11
+{
+	position:fixed;
+	top:585px;
+	left:623px;
+	background-color:red;
+	color:white;
+	font-size:14px;
+	text-align:center;
+	padding:15px 45px;
+	border-radius:10px;
+	border-color:black;
+	border-width:5px;
+}
+.line1
+{
+	height:250px;
+	width:10px;
+	background:#dfe3ee;
+}
+.line2
+{
+	height:10px;
+	width:300px;
+	background:#dfe3ee;
+}
+.gamebutton
+{
+	position:fixed;
+	background:linear-gradient(orange,yellow);
+	top:500px;
+	left:580px;
+	color:black;
+	padding:25px 50px;
+	border-radius:10px;
+	border-color:black;
+	border-width:10px;
+}
+.win
+{
+	color:yellow;
+	text-shadow:5px 5px #000000;
+	font-size:70px;
+	font-family:helvetica;
+	position:fixed;
+	top:230px;
+	left:1000px;
+}
